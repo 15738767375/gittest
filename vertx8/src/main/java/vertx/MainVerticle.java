@@ -1,4 +1,4 @@
-package vertx;
+package vertx;1
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
